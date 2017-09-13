@@ -1,3 +1,7 @@
 hello git!=)
+<<<<<<< HEAD
 ok!
 -)
+=======
+ok ok!
+>>>>>>> e13110fa06cc276a5026482f54b1e74f2d81f1a0
